@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_share"
+  site-url: "https://HasanGoni.github.io/test_share"
+  description: "Testing historical share data"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/test_share"
